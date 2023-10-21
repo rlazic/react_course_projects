@@ -3,4 +3,4 @@ All required packages are left out of this repository.
 
 app1 - Hello World
 app2 - Click counter
-app3 - API list
+app3 - todo list
